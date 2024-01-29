@@ -1,4 +1,4 @@
-# My Second Made Personal Portfolio
+# My Personal Made Personal Portfolio
 
 Welcome to the Awesome Project repository! This project is all about [briefly describe your project].
 
@@ -13,7 +13,7 @@ To get started with the Awesome Project, follow these steps:
 
 1. Clone the repository to your local machine.
     ```bash
-    git clone https://github.com/TrixDiaz/TrixDiaz.github.io.git
+    git clone https://github.com/Carlien22/Carlien22.github.io.git
     ```
 
 2. [Additional installation steps if any...]
@@ -35,7 +35,7 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 ### Check out my Personal Portfolio
-🌐 [Trix Diaz Portfolio](https://www.trixdiaz.github.io)
+🌐 [Brix Darlucio Portfolio](https://www.carlien22.github.io)
 Short description: Explore my personal portfolio to discover more about my skills, projects, and experience.
 
 ---
